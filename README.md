@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm NARENDER SOPPOJU</h1>
 <h3 align="center">LIKE AN SEMICOLON AND TERMINATES YOUR PROBLEM</h3>
+<img align="right" width=600 alt="coding" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nari2002&label=Profile%20views&color=0e75b6&style=flat" alt="nari2002" /> </p>
+
 
 - 🔭 I’m currently working on **STUDENT**
 

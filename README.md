@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/narender soppoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narender soppoju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/narender-soppoju-665432268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narender soppoju" height="30" width="40" /></a>
 <a href="https://kaggle.com/soppoju narender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soppoju narender" height="30" width="40" /></a>
 <a href="https://fb.com/soppoju narender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soppoju narender" height="30" width="40" /></a>
 <a href="https://instagram.com/soppoju narender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soppoju narender" height="30" width="40" /></a>

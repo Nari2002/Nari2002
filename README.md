@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as **STUDENT**
 
-- 🌱 I’m currently learning **django,sql**
+- 🌱 I’m currently learning **Full Stack Data-Science**
 
 - 🤝 I’m looking for help with **get internships**
 

@@ -2,7 +2,7 @@
 <h3 align="center">Don't be semicolon(;) I code in python &#128524; &#128013;</h3>
 <img align="right" width=400 alt="coding" src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47jhp6ci9uqx3snp3t76yp1jd5k7i2mfamsezcgzre&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nari2002&label=Profile%20views&color=0e75b6&style=flat" alt="nari2002" /> </p>
+<p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmc2o2ODRxb3NqaDZqOWswMG01cDY4cW56aWdxdmNvNThkNDVhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" alt="nari2002" /> </p>
 
 
 - 🔭 I’m currently working as **STUDENT**

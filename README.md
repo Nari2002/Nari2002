@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm NARENDER SOPPOJU</h1>
 <h3 align="center">Don't be semicolon(;) I code in python &#128524; &#128013;</h3>
 
-<p><img align='left' height=200 width=200 src='https://avatars.githubusercontent.com/u/95279852?v=4' ></p>
-<br>
-<br>
-
 <img align="right" width=400 alt="coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmc2o2ODRxb3NqaDZqOWswMG01cDY4cW56aWdxdmNvNThkNDVhNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif">
 
 
